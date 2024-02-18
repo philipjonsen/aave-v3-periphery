@@ -1,0 +1,27 @@
+version = 1
+
+[[analyzers]]
+name = "dart-analyze"
+type = "community"
+
+[[analyzers]]
+name = "kube-linter"
+type = "community"
+
+[[analyzers]]
+name = "cfn-lint"
+type = "community"
+
+[[analyzers]]
+name = "slither"
+type = "community"
+
+[[analyzers]]
+name = "solhint"
+type = "community"
+
+[[analyzers]]
+name = "test-coverage"
+
+[[analyzers]]
+name = "terraform"
